@@ -1,0 +1,4 @@
+#Tue Apr 04 11:09:23 ART 2023
+base.0=C\:\\Users\\Werty\\OneDrive\\Escritorio\\primerapp\\myapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
